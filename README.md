@@ -41,4 +41,5 @@ gcc -o simulation_sir model.c
 ./simulation_sir 0.99 0 0.01 1.3 5.7 0.2 0.0125 0.01 0.0001 0.0008 40 300000
 ```
 gives the following output :
+
 ![fig](https://github.com/acmo0/SIR-simulation/blob/main/img/fig_demo.png)
