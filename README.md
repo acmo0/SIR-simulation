@@ -1,6 +1,6 @@
 # Simulation of SIERD model
 ## Installation
-Executables files are located in the bin folder, please (download the release)[] or clone the github repo.
+Executables files are located in the bin folder, please download *generate.py* and *simulation_sir* from the [lastest release](https://github.com/acmo0/SIR-simulation/releases/tag/v1.0) or clone the github repo.
 To plot calculated data, you need to install matplotlib using :
 ```
 sudo apt install python3-matplotlib
