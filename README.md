@@ -29,7 +29,7 @@ epsilon : deimmunization rate (per time)
 mu : natural death rate (per time)
 nu : birth rate (per time)
 duration of simulation (in day)
-points : number of points for the simulation
+points : number of points for the simulation (at least 10000 is recommended)
 ```
 ## Install from sources
 First, clone the github repo and go to source then compile program with :
