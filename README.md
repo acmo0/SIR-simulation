@@ -11,7 +11,7 @@ pip install matplotlib
 ```
 ## Usage
 The model can be schematized like this :
-![fig1]()
+![fig1](https://github.com/acmo0/SIR-simulation/blob/main/img/diag2.png)
 To start the simulation use :
 ```
 ./simulation_sir S0 E0 I0 alpha beta gamma delta epsilon mu nu duration points
