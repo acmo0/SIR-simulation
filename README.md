@@ -31,3 +31,8 @@ nu : birth rate (per time)
 duration of simulation (in day)
 points : number of points for the simulation
 ```
+## Install from sources
+First, clone the github repo and go to source then compile program with :
+```
+gcc -o simulation_sir model.c
+```
